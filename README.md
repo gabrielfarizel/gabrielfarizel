@@ -54,6 +54,15 @@ https://github.com/gabrielfarizel/excel-analise-pedidos
 
 ---
 
+### 🗄️ Análises em SQL – Dataset Olist
+
+Projeto de SQL básico utilizando o dataset público da Olist, com foco na aplicação prática dos principais fundamentos da linguagem SQL em cenários reais de negócio.
+
+As análises envolvem filtros, agregações, GROUP BY, HAVING e JOINs entre múltiplas tabelas, simulando consultas comuns no dia a dia de um analista de dados.
+
+🔗 Repositório:
+https://github.com/gabrielfarizel/sql-basico-analises 
+
 ## 📬 Contato
 
 📧 **Email:** gabriel.farizell@gmail.com  
